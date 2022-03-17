@@ -1,3 +1,1 @@
-# hello world
-
-#line 2
+print("Hello World")
